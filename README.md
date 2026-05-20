@@ -1,0 +1,2 @@
+# TinyML-based-anomaly-detection-in-underwater-communication-
+This project focuses on developing a TinyML-powered anomaly detection system for underwater communication networks. The system is designed to identify abnormal communication patterns, signal disturbances, and transmission failures in real time using lightweight machine learning models that can run efficiently on low-power embedded devices. 
